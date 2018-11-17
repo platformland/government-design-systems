@@ -1,2 +1,2 @@
-name,iso-country-code,url
-US Web Design System,US,https://designsystem.digital.gov
+name,iso-country-code,homepage-url, source-url
+US Web Design System,US,https://designsystem.digital.gov,https://github.com/uswds/uswds
