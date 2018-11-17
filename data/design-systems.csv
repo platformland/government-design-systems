@@ -1,2 +1,5 @@
-Name,IsoCountryCode,HomepageUrl, SourceCodeUrl
-US Web Design System,US,https://designsystem.digital.gov,https://github.com/uswds/uswds
+Name, Organisation, IsoCountryCode,HomepageUrl
+US Web Design System,18F,US,https://designsystem.digital.gov
+GOV.UK Design System,Government Digital Service,GB,https://design-system.service.gov.uk
+Mayflower,Commonwealth of Massachusetts,US,https://mayflower.digital.mass.gov
+
